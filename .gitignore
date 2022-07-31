@@ -1,0 +1,7 @@
+.idea/
+.pytest_cache/
+Docs/
+Lib/
+Logs/
+reports/
+Scripts/
